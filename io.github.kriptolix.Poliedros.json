@@ -171,8 +171,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/kriptolix/Poliedros.git",
-                    "tag": "v1.5.3",
-                    "commit": "5f9c7f4"
+                    "tag": "v2.0.0",
+                    "commit": "27252f8"
                 }
             ]
         }
